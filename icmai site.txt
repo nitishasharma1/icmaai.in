@@ -1,0 +1,143 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Final Result
+</title><link rel="Stylesheet" href="CSS/style.css" type="text/css" media="screen" /><link rel="stylesheet" href="CSS/print.css" type="text/css" media="print" /></head>
+<body>
+    <form method="post" action="./ShowFinalResult.aspx?reg=04211112765" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMzMjE5MDA5D2QWAgIDD2QWDAIFDxYCHgdWaXNpYmxlaBYCZg9kFgJmD2QWAgIBDw8WAh4EVGV4dGVkZAIHD2QWCGYPZBYCAgEPZBYCAgEPDxYCHwEFDk5JVElTSEEgU0hBUk1BZGQCAQ9kFgICAQ9kFgICAQ8PFgIfAQUGNDI1OTEwZGQCAg9kFgICAQ9kFgJmDw8WAh8BBQswNDIxMTExMjc2NWRkAgMPZBYCAgEPZBYCAgEPDxYCHwEFD1NZTExBQlVTIC0gMjAyMmRkAgkPFgIfAGcWBGYPZBYIAgEPZBYCZg8PFgIfAQUIUGFwZXIgMTNkZAICD2QWAmYPDxYCHwEFCFBhcGVyIDE0ZGQCAw9kFgJmDw8WAh8BBQhQYXBlciAxNWRkAgQPZBYCZg8PFgIfAQUIUGFwZXIgMTZkZAIBD2QWCgIBD2QWAmYPDxYCHwEFA0EgIGRkAgIPZBYCZg8PFgIfAQUDQSAgZGQCAw9kFgJmDw8WAh8BBQNBICBkZAIED2QWAmYPDxYCHwEFA0EgIGRkAgUPZBYCZg8PFgIfAQUBIGRkAgsPFgIfAGcWBGYPZBYIAgEPZBYCZg8PFgIfAQUIUGFwZXIgMTdkZAICD2QWAmYPDxYCHwEFCFBhcGVyIDE4ZGQCAw9kFgJmDw8WAh8BBQhQYXBlciAxOWRkAgQPZBYCZg8PFgIfAQUIUGFwZXIgMjBkZAIBD2QWCgIBD2QWAmYPDxYCHwEFAjY0ZGQCAg9kFgJmDw8WAh8BBQI1MGRkAgMPZBYCZg8PFgIfAQUCNjlkZAIED2QWAmYPDxYCHwEFAjU5ZGQCBQ9kFgJmDw8WAh8BBQMyNDJkZAIND2QWAmYPZBYCAgEPZBYCAgEPDxYCHwEF/gM8YnIgLz4gPGltZyBzcmM9J2ltYWdlcy9jb25ncmF0cy5qcGcnICB3aWR0aD0nMTIwJyBoZWlnaHQ9JzgwJyAvPjxiciAvPjxiPipHcm91cCBJViBDb21wbGV0ZWQqIDwvYj48YnIgLz48YnIgLz4gPGRpdiBzdHlsZT0nY29sb3I6TWFyb29uOyB0ZXh0LWFsaWduOmp1c3RpZnk7dGV4dC1hbGlnbjpjZW50ZXI7Jz5UaG9zZSB3aG8gYXJlIGRlc2lyb3VzIG9mIHNlZWtpbmcgcHJhY3RpY2FsIHRyYWluaW5nIG1heSBmaWxlIHRoZWlyIFJlc3VtZSBvbmxpbmUgZnJvbSBiZWxvdyBsaW5rLjwvZGl2PjxkaXYgc3R5bGU9J2JhY2tncm91bmQtY29sb3I6eWVsbG93OyBjb2xvcjpibHVlO3RleHQtYWxpZ246Y2VudGVyOyc+PGJyIC8+PGEgaHJlZj0naHR0cHM6Ly9laWNtYWkuaW4vUmVzdW1lX1VwbG9hZGluZ19EZWMyNF80Z3Y3YWFrL2xvZ2luLmFzcHgnIHN0eWxlPSdjb2xvcjpibHVlO3RleHQtYWxpZ246Y2VudGVyOyc+UGxlYXNlIHVwbG9hZCB5b3VyIFJlc3VtZTwvYT48YnIgLz48YnIgLz48L2Rpdj5kZAIPD2QWAmYPZBYCZg9kFgICAQ8PFgIfAQWqAjxiciAvPjxiciAvPjxiPk5vdGU6IDwvYj4gVGhlIEluc3RpdHV0ZSBvZiBDb3N0IEFjY291bnRhbnRzIG9mIEluZGlhIGlzIG5vdCByZXNwb25zaWJsZSBmb3IgYW55IGluYWR2ZXJ0ZW50IGVycm9yIHRoYXQgbWF5IGhhdmUgY3JlcHQgaW4gdGhlIHJlc3VsdHMgYmVpbmcgcHVibGlzaGVkIGluIE5FVC4gVGhlIHJlc3VsdHMgcHVibGlzaGVkIG9uIG5ldCBhcmUgZm9yIGltbWVkaWF0ZSBpbmZvcm1hdGlvbiB0byB0aGUgZXhhbWluZWVzLiBUaGVzZSBjYW4gbm90IGJlIHRyZWF0ZWQgYXMgb3JpZ2luYWwgbWFya3NoZWV0cy5kZGTfxkIxQQnZynfQmLkJf9G7rR+IKM7RDYVARfNvir/Ccw==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B1BD55B" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOzlAZQ48OjfxBlE63uNP+md7RnisS1PiyBpYEMF6nUbGAiXhqAKQaaPCVZ8BR7IxxmgXUL6WrPf7Oqxjfj1grc7EBZfSwPwC9Hdxt4C/EDnQ==" />
+</div>
+     <input type="hidden" name="hdnStatus" id="hdnStatus" />
+     <input type="hidden" name="hdnStage" id="hdnStage" />
+        <div class="content" style="height:885px;">	
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+                      	    <tr>
+                      	        <td align="center" colspan="3"><img src="images/logo.png" alt="" /></td>                      	                         	    
+                      	    </tr>
+       	               </table>    
+       	               <table width="100%" align="center"> 
+                      	<tr>
+                      	     <td align="center" colspan="3" style="font-family:Arial,Helvetica,sans-serif; font-size:13px;"><font style="font-size:18px;font-weight:bold">The Institute of Cost Accountants of India</font><br />(Statutory body under an Act of Parliament)</td>
+                       	</tr>
+                      	<tr>
+                      	    <td colspan="3" class="heading" align="center">Final Result For June 2025 Term</td>                      	    
+                        </tr>
+                        </table>
+                     
+                    
+                    <table id="tableDetails" border="1" cellspacing="0" cellpadding="4" width="56%" align="center">
+	<tr class="bodytext">
+		<td width="30%" class="bluehead">Name of Student:</td>
+		<td width="70%" class="bluetext">
+                                <span id="lblName">NITISHA SHARMA</span>&nbsp;</td>
+	</tr>
+	<tr class="bodytext">
+		<td width="30%" class="bluehead">Roll No.:</td>
+		<td width="70%" class="bluetext">
+                                <span id="lblRoll">425910</span>&nbsp;</td>
+	</tr>
+	<tr class="bodytext">
+		<td width="30%" class="bluehead">Registration No.:</td>
+		<td width="70%" class="bluetext"><span id="lblRegNo">04211112765</span>
+                                &nbsp;</td>
+	</tr>
+	<tr class="bodytext">
+		<td width="30%" class="bluehead">Syllabus:</td>
+		<td width="70%" class="bluetext">
+                                <span id="lblSyllabus">SYLLABUS - 2022</span>&nbsp;</td>
+	</tr>
+</table>
+
+                    
+                    <br />  
+                   
+                    <table id="table1" border="1" cellspacing="0" cellpadding="0" align="center" width="56%">
+	<tr class="bluehead">
+		<td width="25%">&nbsp;</td>
+		<td align="center"><span id="lblPaperName1">Paper 13</span></td>
+		<td align="center"><span id="lblPaperName2">Paper 14</span></td>
+		<td align="center"><span id="lblPaperName3">Paper 15</span></td>
+		<td align="center"><span id="lblPaperName4">Paper 16</span></td>
+		<td align="center">Total</td>
+	</tr>
+	<tr class="bluetext">
+		<td>&nbsp;Group III
+                              </td>
+		<td align="center"><span id="lblM1">55 </span>
+                              </td>
+		<td align="center"><span id="lblM2">40  </span>
+                              </td>
+		<td align="center"><span id="lblM3">48  </span>
+                              </td>
+		<td align="center"><span id="lblM4">55  </span>
+                              </td>
+		<td align="center"><span id="lblTot1">198 </span>
+                              </td>
+	</tr>
+</table>
+ 
+                   
+                    <br />   
+                    <table id="tableStatus" width="56%" border="1" cellspacing="0" cellpadding="1" align="center">
+	<tr>
+		<td width="28%" class="bluehead">&nbsp;Exam Status :</td>
+		<td colspan="3" align="center" class="bluetext">
+                             <span id="lblStatus"><br /> <img src='images/congrats.jpg'  width='120' height='80' /><br /><b>*Not Completed* </b><br /><br /> <div style='color:Maroon; text-align:justify;text-align:center;'>Those who are desirous of seeking practical training may file their Resume online from below link.</div><div style='background-color:yellow; color:blue;text-align:center;'><br /><a href='https://eicmai.in/Resume_Uploading_Dec24_4gv7aak/login.aspx' style='color:blue;text-align:center;'>Please upload your Resume</a><br /><br /></div></span>
+                             
+                            </td>
+	</tr>
+</table>
+  
+                    
+                    <br />
+                    <table id="tableInstr" width="56%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr class="bodytext">
+		<td align="justify">
+                              <span id="lblFstatus1"><br /><br /><b>Note: </b> The Institute of Cost Accountants of India is not responsible for any inadvertent error that may have crept in the results being published in NET. The results published on net are for immediate information to the examinees. These can not be treated as original marksheets.</span><br /><br />
+                              <span class="bodytext_red"><b>Instructions :</b></span>
+                              <ul>
+                            
+                              <li>In marks <b>A</b> means - <b>Absent</b><br /></li>
+                                <li><b>D</b> means - <b>Not applied</b><br /></li>
+                                <li><b>E/F</b> means - <b>Exempted</b></li>
+                                 
+                              </ul>
+                            </td>
+	</tr>
+</table>
+ 
+                                      
+                    <br />
+                    <table width="56%" border="0" cellspacing="0" cellpadding="0" align="center">
+                          <tr bgcolor="#F7F7E7" class="bodytext">
+                            <td align="center">
+                              <a href="FinalResult.htm" class="link" title="Back">Back</a>
+                            </td>
+                            <td align="center" valign="middle">
+                              <a href="javascript:window.print();" class="link"><img src="images/print.gif" border="0"  alt="" />Print Result</a> 
+                            </td>
+                            <td align="center">
+                              <a href="index.htm" class="link" title="Home">Home</a>
+                            </td>
+                          </tr>
+                        </table>
+                    
+                   
+                     
+         </div>  
+         <p style="font-weight:bold;font-size:100%;  text-align:center;">
+         &copy;
+         <script language="javascript" type="text/javascript">document.write(new Date().getFullYear())</script><a href="https://icmai.in/icmai/" style="color:blue;"> icmai.in</a>. All Rights Reserved.
+     </p>
+    </form>
+</body>
+</html>
