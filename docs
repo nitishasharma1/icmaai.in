@@ -1,0 +1,2 @@
+mkdir docs
+echo "// Placeholder file" > docs/placeholder.scss
